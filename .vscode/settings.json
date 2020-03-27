@@ -1,7 +1,6 @@
 {
   "editor.tabSize": 4,
   "files.autoSave": "onFocusChange",
-  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
   "python.linting.enabled": true,
   "python.linting.pylintEnabled": false,
   "python.linting.lintOnSave": true,
@@ -15,7 +14,5 @@
     "python": "python3 -u"
   },
   "workbench.panel.defaultLocation": "right",
-  "python.testing.pytestArgs": [
-    "."
-  ]
+  "python.testing.pytestArgs": ["."]
 }

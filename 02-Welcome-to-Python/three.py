@@ -1,4 +1,3 @@
-# code check
 # Help me out! When I print the two lines below, they are
 # separated by a line break. What's peanut butter without
 # jelly? NOTHING! Fix the code to ensure the second

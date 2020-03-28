@@ -1,3 +1,5 @@
+# type conversion inside brackets
+
 print(int(3.14))  # returns 3
 print(int('3'))  # returns 3
 

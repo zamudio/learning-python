@@ -20,3 +20,5 @@ The purpose of this repository was to gain more experience with git while also g
 * Class, attributes, methods, inheritance
 * Exception handling
 * Testing code, pytest
+
+Previous experience with other backend languages made this more of a learning excercise for the syntax than for the concepts

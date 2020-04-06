@@ -21,7 +21,7 @@ def fizzbuzz(num):
             print('Fizz')
             count += 1
         else:
-            print(f'{num}')
+            print(f'{count}')
             count += 1
 
 
